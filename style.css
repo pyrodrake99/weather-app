@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(9, 83, 107);
+    text-align: center;
+}
+h1  {
+    color: red;
+}
+#line1 {
+    color: green;
+}
+.betterfont {
+    font: 100px arial, sans-serif ;
+}
